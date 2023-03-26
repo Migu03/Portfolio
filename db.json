@@ -1,0 +1,162 @@
+{
+  "categories": [
+    {
+      "id": 2,
+      "name": "Static website"
+    },
+    {
+      "name": "Dynamic website",
+      "id": 3
+    },
+    {
+      "name": "E-commerce website",
+      "id": 7
+    }
+  ],
+  "blogs": [
+    {
+      "name": "The Importance of Programming and How to Get Started",
+      "desc": "<p>One of the most popular programming languages today is Python. Python is a high-level, general-purpose programming language that is widely used in data science, machine learning, and web development. It is known for its simplicity, readability, and ease of use, making it an ideal choice for beginners.</p><p>When it comes to learning how to program, there are many resources available online. Some popular platforms for learning programming include Codecademy, Udemy, and Coursera. These platforms offer courses on a wide range of programming languages, from beginner to advanced.</p><p>Once you have learned the basics of programming, it is important to start practicing by building your own projects. This can be as simple as building a calculator or as complex as building a web application. The key is to start small and work your way up to more challenging projects.</p><p>One of the best things about programming is the sense of satisfaction you get from building something from scratch. Whether it is a simple program or a complex web application, the feeling of seeing your creation come to life is incredibly rewarding.</p><p>In addition to the personal satisfaction, learning how to code can also open up new career opportunities. Many industries today require employees who have a solid understanding of programming. This includes fields such as data science, software development, and web development.</p><blockquote><p>In conclusion, learning how to program is a valuable skill that can benefit you both personally and professionally. With the abundance of resources available online, there has never been a better time to start learning how to code. So why not take the first step today and start your programming journey?</p></blockquote>",
+      "thumbnail": "http://res.cloudinary.com/dxa8ks06k/image/upload/v1677072857/yimulnsfl4hbmhicyca5.png",
+      "author": "Migu-chan",
+      "time": "2023-02-09",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "phuongttph20933@fpt.edu.vn",
+      "password": "$2a$10$0PYHgF5UuluRsBSLr9hWk.RY0ZR8O.ZHcpjVu2FksaE1V2.yM/7Ga",
+      "username": "phuong",
+      "role": 0,
+      "id": 1
+    },
+    {
+      "email": "fhoang25@gmail.com",
+      "password": "$2a$10$FVDwuNdC/XBvuiC0Cx.1yOwXG27Uwz9/dmaSqLCGkg.QagdQxs6jm",
+      "username": "hoangngu",
+      "role": 0,
+      "id": 2
+    },
+    {
+      "email": "hoangbru07@gmail.com",
+      "password": "$2a$10$LTmdYE/9njih7.RkdDPwUO1Dmaucc38gIUwvbJ0jzBJhAxdqKY0SG",
+      "username": "hoangngu",
+      "role": 0,
+      "id": 3
+    },
+    {
+      "email": "phuong@gmail.com",
+      "password": "$2a$10$mQwWhEZ2b2Q3TjpTTlSEMu6Y24PDBOC9sYPn.oiEedk4Y.hm1Su4S",
+      "username": "admin",
+      "role": 1,
+      "id": 4
+    }
+  ],
+  "projects": [],
+  "intro": [
+    {
+      "id": 1,
+      "content": "<blockquote><h2><strong>My name's Tran Thi Phuong, you can call me “Ptran”</strong></h2></blockquote><h4><i><strong>Hello there! My name is Tran Thi Phuong and I am currently a female front-end developer based in Hanoi, Vietnam. I am currently studying web programming at FPT Polytechnic College and am constantly striving to improve my skills in this field. When I'm not coding, you can often find me watching anime or listening to music. I'm excited to connect with others who share my passion for technology and creativity.</strong></i></h4>"
+    }
+  ],
+  "technologies": [
+    {
+      "id": 1,
+      "name": "HTML ",
+      "tag": "html5"
+    },
+    {
+      "name": "CSS",
+      "tag": "css3",
+      "id": 2
+    },
+    {
+      "name": "JavaScript",
+      "tag": "javascript",
+      "id": 3
+    },
+    {
+      "name": "Figma",
+      "tag": "figma",
+      "id": 4
+    },
+    {
+      "name": "Python",
+      "tag": "python",
+      "id": 5
+    },
+    {
+      "name": "React",
+      "tag": "react",
+      "id": 6
+    },
+    {
+      "name": "Wordpress",
+      "tag": "wordpress",
+      "id": 7
+    },
+    {
+      "name": "Github",
+      "tag": "github",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Laravel",
+      "tag": "laravel"
+    }
+  ],
+  "social-media": [
+    {
+      "name": "Facebook",
+      "link": "https://www.facebook.com/fwng263/",
+      "tag": "facebook",
+      "id": 1
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/chocobye.03/",
+      "tag": "instagram",
+      "id": 2
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/Migu03",
+      "tag": "github",
+      "id": 3
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "tag": "html5",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "JavaScritp",
+      "tag": "javascript"
+    },
+    {
+      "name": "Figma",
+      "tag": "figma",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "CSS",
+      "tag": "css3"
+    },
+    {
+      "name": "Wordpress",
+      "tag": "wordpress",
+      "id": 5
+    },
+    {
+      "name": "React",
+      "tag": "react",
+      "id": 6
+    }
+  ]
+}
